@@ -23,3 +23,7 @@ This code release requires no installations and may be directly cloned from gith
 ## Examples
 
 Annotated examples can be found [here](https://github.com/joshwfoster/XenonSystematics/tree/master/Jupyter).
+
+
+
+NB: We highly encourage users to submit pull requests with improved or expanded data sets, if available and if doing so would not be in violation of XENON1T Collaboration rules.

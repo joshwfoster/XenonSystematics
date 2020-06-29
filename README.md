@@ -1,30 +1,25 @@
-# RadioAxionSearch
+# XenonSystematics
 
-**A Public Data Release of Observational Data and Analysis Results**
+**A Public Data Release of Analysis Methods and Results**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2003.xxxxx%20-green.svg)](https://arxiv.org/abs/2003.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2007.xxxxx%20-green.svg)](https://arxiv.org/abs/2007.xxxxx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Sensitivity](https://github.com/joshwfoster/RadioAxionSearch/blob/master/examples/Axion_Constraints.png "Fiducial Axion Constraints")
+![Results](https://github.com/joshwfoster/XenonSystematics/blob/master/Plots/Fig1.png "Main Result")
 
-RadioAxionSearch is a public data release of results from a  search for signals axion-to-photon conversion in neutron star magnetospheres appearing as spectral lines at radio frequencies. Processed observational data and complete analysis results are made available in this repository. The full, unprocessed observational data may be made available offline at request. If these data contribute to published work, please cite the original reference [2003.xxxxx](https://arxiv.org/abs/2003.xxxxx). 
+
+XenonSystematics is a public release of results from a search for systematic mismodelling in the Science Run 1 Data collected by the XENON1T Collaboration. Digitized observational data and complete analysis methodologies and results are made available in this repository.  If these data contribute to published work, please cite the original reference [2007.xxxxx](https://arxiv.org/abs/2007.xxxxx). 
 
 ## Authors
-
+- Christopher Dessert; dessert at umich dot edu
 - Joshua Foster; fosterjw at umich dot edu
-- Yonatan Kahn
-- Oscar Macias
-- Zhiquan Sun
-- Christoph Weniger
-- Ralph P. Eatough
-- Vladislav I. Kondratiev
-- Wendy M. Peters
+- Yonatan Kahn; yfkahn at illinois dot edu
 - Benjamin Safdi; bsafdi at umich dot edu
 
 ## Installation
 
-This data release requires no installations and may be directly cloned from github.  All data are saved in numpy formats.
+This code release requires no installations and may be directly cloned from github. 
 
 ## Examples
 
-Annotated examples can be found [here](https://github.com/joshwfoster/RadioAxionSearch/tree/master/examples).
+Annotated examples can be found [here](https://github.com/joshwfoster/XenonSystematics/tree/master/Jupyter).

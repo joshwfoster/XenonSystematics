@@ -8,7 +8,7 @@
 ![Results](https://github.com/joshwfoster/XenonSystematics/blob/master/Plots/Fig1.png "Main Result")
 
 
-XenonSystematics is a public release of results from a search for systematic mismodelling in the Science Run 1 Data collected by the XENON1T Collaboration. Digitized observational data and complete analysis methodologies and results are made available in this repository.  If these data contribute to published work, please cite the original reference [2007.xxxxx](https://arxiv.org/abs/2006.16220). 
+XenonSystematics is a public release of results from a search for systematic mismodelling in the Science Run 1 Data collected by the XENON1T Collaboration. Digitized observational data and complete analysis methodologies and results are made available in this repository.  If these data contribute to published work, please cite the original reference [2006.16220](https://arxiv.org/abs/2006.16220). 
 
 ## Authors
 - Christopher Dessert; dessert at umich dot edu
